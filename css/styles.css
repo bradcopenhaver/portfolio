@@ -28,9 +28,6 @@ a:hover {
   height: 235px;
   float: left;
 }
-.projects .panel{
-  background-color: papayawhip;
-}
 .projects h2{
   text-align: center;
   margin-top: 5px;
@@ -38,12 +35,11 @@ a:hover {
 .projects p{
   padding: 0px 15px 0px 15px;
 }
+.projects .panel{
+  background-color: papayawhip;
+}
 .gradient {
   background: linear-gradient(to top, white, beige);
-}
-.aboutme .panel img {
-  width: 100%;
-  height: auto;
 }
 .aboutme img {
   height:250px;
@@ -57,13 +53,18 @@ a:hover {
   margin-top: 5px;
   font-weight: bolder;
 }
-.hobbies strong {
+.aboutme strong {
   font-size: 16pt;
   color:brown;
+}
+.aboutme .panel img {
+  width: 100%;
+  height: auto;
 }
 .contributors {
   text-align: right;
   color: maroon;
+  margin-left: 15%;
 }
 .univ {
   font-weight: bold;
@@ -77,4 +78,8 @@ a:hover {
 }
 .status {
   font-style: italic;
+}
+.orange {
+  color: orange;
+  font-weight: bold;
 }
