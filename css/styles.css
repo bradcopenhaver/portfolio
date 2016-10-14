@@ -14,6 +14,7 @@
 }
 .projects .panel{
   padding: 10px;
+  background-color: papayawhip;
 }
 .projects h2{
   text-align: center;
@@ -32,15 +33,29 @@
 .project6 {
 }
 .aboutme {
-  border: solid thin red;
-  height: 300px;
 }
 .aboutme img {
   height:280px;
 }
+.aboutme p {
+  font-size: 14pt;
+}
 .contributors {
   text-align: right;
   color: darkblue;
+}
+.univ {
+  font-weight: bold;
+  font-size: 18pt;
+  color: darkred;
+}
+.degree {
+  font-weight: bold;
+  font-size: 16pt;
+  color: chocolate;
+}
+.status {
+  font-style: italic;
 }
 strong {
   color: orange;
