@@ -1,3 +1,15 @@
+body {
+  color: darkslategrey;
+}
+strong {
+  color: orange;
+}
+a {
+  color: darkred;
+}
+a:hover {
+  color: indianred;
+}
 .panel {
   padding: 10px;
   border: solid thin saddlebrown;
@@ -23,7 +35,10 @@
   text-align: center;
   margin-top: 5px;
 }
-.gradient2 {
+.projects p{
+  padding: 0px 25px 0px 25px;
+}
+.gradient {
   background: linear-gradient(to top, white, beige);
 }
 .aboutme .panel img {
@@ -40,6 +55,7 @@
 .aboutme h3 {
   text-align: center;
   margin-top: 5px;
+  font-weight: bolder;
 }
 .hobbies strong {
   font-size: 16pt;
@@ -47,7 +63,7 @@
 }
 .contributors {
   text-align: right;
-  color: darkblue;
+  color: maroon;
 }
 .univ {
   font-weight: bold;
@@ -61,7 +77,4 @@
 }
 .status {
   font-style: italic;
-}
-strong {
-  color: orange;
 }
