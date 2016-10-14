@@ -1,17 +1,23 @@
 .intro {
-  border: solid thin blue;
-  height: 300px;
+  text-align: center;
+}
+.intro h1{
+  font-size: 48pt;
+}
+.intro p {
+  font-size: 18pt;
 }
 .intro img {
-  height: 280px;
+  height: 235px;
   float: left;
 }
-
 .projects {
   border: solid thin green;
   height: 350px;
 }
-
+.projects h2{
+  text-align: center;
+}
 .project1 {
   border: dashed thin orange;
   height: 300px;
@@ -36,11 +42,17 @@
   border: dashed thin orange;
   height: 300px;
 }
-
 .aboutme {
   border: solid thin red;
   height: 300px;
 }
 .aboutme img {
   height:280px;
+}
+.contributors {
+  text-align: right;
+  color: darkblue;
+}
+strong {
+  color: orange;
 }
