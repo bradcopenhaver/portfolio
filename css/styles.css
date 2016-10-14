@@ -1,5 +1,5 @@
 body {
-  color: darkslategrey;
+  color: #444444;
 }
 strong {
   color: orange;
@@ -36,7 +36,7 @@ a:hover {
   margin-top: 5px;
 }
 .projects p{
-  padding: 0px 25px 0px 25px;
+  padding: 0px 15px 0px 15px;
 }
 .gradient {
   background: linear-gradient(to top, white, beige);
