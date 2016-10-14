@@ -2,6 +2,10 @@
   border: solid thin blue;
   height: 300px;
 }
+.intro img {
+  height: 280px;
+  float: left;
+}
 
 .projects {
   border: solid thin green;
@@ -36,4 +40,7 @@
 .aboutme {
   border: solid thin red;
   height: 300px;
+}
+.aboutme img {
+  height:280px;
 }
