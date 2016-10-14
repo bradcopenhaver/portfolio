@@ -13,10 +13,10 @@ You can download the source code for this site at this GitHub repository link: h
 This site can be viewed at http://bradcopenhaver.github.io/portfolio
 
 #### Contact
-Email Brad Copenhaver at bradcopenhaver@gmail.com 
+Email Brad Copenhaver at bradcopenhaver@gmail.com
 
 #### Legal
-Author claims no ownership of images used on this webpage or pages linked from this page.
+Author claims no ownership of images used on this webpage or images on pages linked from this page.
 
 Copyright (c) 2016 Brad Copenhaver
 
