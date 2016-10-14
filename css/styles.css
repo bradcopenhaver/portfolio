@@ -1,0 +1,39 @@
+.intro {
+  border: solid thin blue;
+  height: 300px;
+}
+
+.projects {
+  border: solid thin green;
+  height: 350px;
+}
+
+.project1 {
+  border: dashed thin orange;
+  height: 300px;
+}
+.project2 {
+  border: dashed thin orange;
+  height: 300px;
+}
+.project3 {
+  border: dashed thin orange;
+  height: 300px;
+}
+.project4 {
+  border: dashed thin orange;
+  height: 300px;
+}
+.project5 {
+  border: dashed thin orange;
+  height: 300px;
+}
+.project6 {
+  border: dashed thin orange;
+  height: 300px;
+}
+
+.aboutme {
+  border: solid thin red;
+  height: 300px;
+}
